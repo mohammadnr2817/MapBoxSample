@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapBoxSample</string>
+    <string name="mapbox_access_token">REPLACE_WITH_YOUR_ACCESS_TOKEN</string>
+    <string name="add_marker">add marker</string>
+    <string name="add_polygon">add polygon</string>
+    <string name="clear_map">clear map</string>
+</resources>
