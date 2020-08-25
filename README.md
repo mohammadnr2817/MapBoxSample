@@ -13,3 +13,4 @@ and your ACCESS_TOKEN in strings.xml
 ```
 <string name="mapbox_access_token">REPLACE_WITH_YOUR_ACCESS_TOKEN</string>
 ```
+hit the run ...
